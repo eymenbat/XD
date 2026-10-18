@@ -5,4 +5,10 @@ proje yazarı : eymen batu topalak
 # Projenin hedefleri:  
 V.1 Akıllı menü 
 V.2 Veri saklama 
-# pro
+# projenin kapsamı : kritik eşik
+BAŞLA 
+değeri oku(değer)
+EGER değer>=50 YAZ "kritik eşik"
+DEGİLSE YAZ "durum normal"
+DUR 
+## Kaynakça: programa temelleri hocam
